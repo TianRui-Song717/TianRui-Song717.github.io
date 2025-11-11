@@ -6,7 +6,7 @@ subtitle: <a href='https://www.imperial.ac.uk'>Imperial College London</a>. Exhi
 
 profile:
   align: left
-  image: assets/img/STRAvatar.jpg
+  image: STRAvatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Filmed in 2023</p>
