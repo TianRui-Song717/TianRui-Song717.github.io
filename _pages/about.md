@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Tianrui Song. A first-year M.Res. AIML (AI and Machine Learning) student in Computing Department at Imperial College London, supervised by [Professor Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/).
-Previously, I obtained my M.Phil. degree at The Hong Kong University of Science and Technology (Guangzhou) under the supervision of [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/).
+Hi! My name is Tianrui Song. A first-year MRes in AIML (AI and Machine Learning) student at Computing Department of Imperial College London, supervised by [Professor Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/).
+Previously, I obtained my MPhil degree in AI at The Hong Kong University of Science and Technology (Guangzhou) under the supervision of [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/).
 
 My recent research focuses on Large Language Models and Recommender Systems. Now I am working on LLM Alignement as my MRes project. Besides that, as a Vlogger, I am also interested in adapting LLMs for effective and efficient content creation (videos, films, movie scripts, novels, etc.).
 I hope my research can be applied to tangible, commercially viable projects that address the practical needs of people in real life.
