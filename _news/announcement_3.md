@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models" is accepted by AAAI2026! 🎊 🥳
+Our paper "Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models" is accepted by ``AAAI 2026``! 🎊 🥳
