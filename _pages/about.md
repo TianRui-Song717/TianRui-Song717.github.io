@@ -31,8 +31,6 @@ Previously, I obtained my MPhil degree in AI at The Hong Kong University of Scie
 My recent research focuses on **Large Language Models** and **Recommender Systems**. Now I am working on **LLM Alignement** as my MRes project. Besides that, as a **Vlogger** and **Photographer**, I am also interested in adapting LLMs for effective and efficient _content creation (videos, films, movie scripts, novels, etc.)_.
 I hope my research can be applied to tangible, commercially viable projects that address the practical needs of people in real life.
 
-- Email: t.song25@imperial.ac.uk
-
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
