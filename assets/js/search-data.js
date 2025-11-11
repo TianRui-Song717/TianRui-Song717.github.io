@@ -387,7 +387,7 @@ ninja.data = [{
             },},{id: "news-our-paper-mm-agent-llms-as-agents-for-real-world-mathematical-modeling-problems-has-been-accepted-to-the-neurips-2025",
           title: 'Our paper “MM-Agent: LLMs as Agents for Real-world Mathematical Modeling Problems” has been...',
           description: "",
-          section: "News",},{id: "news-our-paper-hard-vs-noise-resolving-hard-noisy-sample-confusion-in-recommender-systems-via-large-language-models-is-accepted-by-aaai2026",
+          section: "News",},{id: "news-our-paper-hard-vs-noise-resolving-hard-noisy-sample-confusion-in-recommender-systems-via-large-language-models-is-accepted-by-aaai-2026",
           title: 'Our paper “Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via...',
           description: "",
           section: "News",},{id: "projects-project-1",
