@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-09-18 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "MM-Agent: LLMs as Agents for Real-world Mathematical Modeling Problems" has been accepted to the NeurIPS 2025! 🥳🎉
