@@ -399,8 +399,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-hard-vs-noise-resolving-hard-noisy-sample-confusion-in-recommender-systems-via-large-language-models-is-accepted-by-aaai2026",
+          title: 'Our paper “Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
