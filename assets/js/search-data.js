@@ -391,7 +391,7 @@ ninja.data = [{
           title: 'Our paper “Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via...',
           description: "",
           section: "News",},{id: "news-received-the-aaai-2026-student-scholarship-1000-500-see-everyone-in-singapore",
-          title: '🥳 Received the AAAI 2026 Student Scholarship (1000$ + 500$)! See everyone in...',
+          title: '🥳 Received the AAAI 2026 Student Scholarship (1000💲 + 500💲)! See everyone in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
