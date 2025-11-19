@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳 Received the AAAI 2026 Student Scholarship (1000$ + 500$)! See everyone in Singapore 🇸🇬!�
+🥳 Received the AAAI 2026 Student Scholarship (1000💲 + 500💲)! See everyone in Singapore 🇸🇬!�
