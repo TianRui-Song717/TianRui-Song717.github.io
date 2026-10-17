@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -25,12 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Tianrui (Ray) Song, a first-year PhD student in the [UKRI Centre for Doctoral Training in Designing Responsible Natural Language Processing](https://responsiblenlp.org/) at the [University of Edinburgh](https://www.ed.ac.uk), supervised by [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/).
+Hi! I'm Tianrui (Ray) Song, a **first-year PhD student** in the [UKRI Centre for Doctoral Training in Designing Responsible Natural Language Processing](https://responsiblenlp.org/) at the [University of Edinburgh](https://www.ed.ac.uk), supervised by [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/).
 Before that, I obtained my MRes in AI and Machine Learning at [Imperial College London](https://www.imperial.ac.uk), supervised by [Prof. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), and my MPhil in AI at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/).
 
-My research interests include **Large Language Models**, **Multimodal LLMs**, **Agentic AI**, and **Reasoning**, with a focus on **AI for creative video production workflows**. I am also a long-time **video content creator**, having made vlogs, popular-science videos, and promotional films. This hands-on experience is what drew me to this direction, and it has given me a first-hand understanding of the practical challenges creators face at every stage of production. My PhD aims to build _creator-centric AI assistants_ that empower, not replace, video creators in real-world production. Ultimately, I hope the AI I build can be deployed in the real world and genuinely help myself and creators of all kinds bring their ideas to life.
+My research interests include **Large Language Models**, **Multimodal LLMs**, **Agentic AI**, and **Reasoning**, with a focus on **AI for creative video production workflows**. I am also a long-time **Vlogger**. This hands-on experience is what drew me to this direction, and it has given me a **first-hand understanding of the practical challenges** creators face at every stage of production. My PhD aims to build *creator-centric AI assistants that **empower, not replace**, video creators in real-world production*. Ultimately, I hope the AI I build can be **deployed in the real world** and genuinely help myself and creators of all kinds bring their ideas to life.
 
-Previously, I worked on LLM safety alignment, LLM-enhanced recommender systems, and LLM agents.
+Previously, I worked on _LLM safety alignment_, _LLM-enhanced recommender systems_, and _LLM agents_, and interned at **ByteDance** (Douyin) as an algorithm engineer on industrial recommender systems.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
