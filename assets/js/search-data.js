@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-mm-agent-llms-as-agents-for-real-world-mathematical-modeling-problems-has-been-accepted-to-the-neurips-2025",
-          title: 'Our paper “MM-Agent: LLMs as Agents for Real-world Mathematical Modeling Problems” has been...',
+            },},{id: "news-our-paper-mm-agent-llm-as-agents-for-real-world-mathematical-modeling-problem-has-been-accepted-to-the-neurips-2025",
+          title: 'Our paper “MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem” has been...',
           description: "",
           section: "News",},{id: "news-our-paper-hard-vs-noise-resolving-hard-noisy-sample-confusion-in-recommender-systems-via-large-language-models-is-accepted-by-aaai-2026",
           title: 'Our paper “Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via...',
