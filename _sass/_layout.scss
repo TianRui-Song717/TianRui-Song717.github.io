@@ -38,13 +38,6 @@ body.sticky-bottom-footer {
   }
 }
 
-// Keep the bio in its own column beside the profile photo instead of wrapping under it
-@media (min-width: 576px) {
-  .profile + .clearfix {
-    overflow: hidden;
-  }
-}
-
 // TODO: redefine content layout.
 
 /******************************************************************************
