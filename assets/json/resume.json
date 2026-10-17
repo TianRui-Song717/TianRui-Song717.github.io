@@ -1,24 +1,24 @@
 {
   "basics": {
     "name": "Tianrui Song",
-    "label": "MRes at Imperial College London",
+    "label": "PhD Student at the University of Edinburgh",
     "image": "",
-    "email": "t.song25 at imperial dot ac dot uk",
+    "email": "T.Song-12 at sms dot ed dot ac dot uk",
     "phone": "",
     "url": "https://tianrui-song717.github.io/cv/",
-    "summary": "A MRes Student at Imperial College London, working in AI (Large Language Models). Also interested in Content Creation and Entrepreneurship.",
+    "summary": "A PhD student in the UKRI CDT in Designing Responsible NLP at the University of Edinburgh, working on creator-centric AI for real-world video production. Also a long-time video content creator.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Informatics Forum, 10 Crichton Street",
+      "postalCode": "EH8 9AB",
+      "city": "Edinburgh",
+      "countryCode": "GB",
+      "region": "Scotland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "tianrui-song-b2a2b2387",
+        "url": "https://www.linkedin.com/in/tianrui-song-b2a2b2387"
       }
     ]
   },

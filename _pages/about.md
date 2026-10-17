@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.imperial.ac.uk'>Imperial College London</a>. Exhibition Rd, South Kensington, London, SW7 2AZ
+subtitle: <a href='https://informatics.ed.ac.uk'>School of Informatics</a>, <a href='https://www.ed.ac.uk'>The University of Edinburgh</a>. Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB
 
 profile:
   align: left
@@ -25,12 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Tianrui Song. A first-year MRes in AIML (AI and Machine Learning) student at Computing Department of Imperial College London, supervised by [Prof. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/).
-Previously, I obtained my MPhil degree in AI at The Hong Kong University of Science and Technology (Guangzhou) under the supervision of [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/).
+Hi! I'm Tianrui (Ray) Song, a first-year PhD student in the [UKRI Centre for Doctoral Training in Designing Responsible Natural Language Processing](https://responsiblenlp.org/) at the [University of Edinburgh](https://www.ed.ac.uk), supervised by [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/).
+Before that, I obtained my MRes in AI and Machine Learning at [Imperial College London](https://www.imperial.ac.uk), supervised by [Prof. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), and my MPhil in AI at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/).
 
-My recent research focuses on **Large Language Models** and **Recommender Systems**. Now I am working on **LLM Alignment** as my MRes project. Besides that, as a **Vlogger**, I am also interested in adapting LLMs for effective and efficient _content creation (videos, films, movie scripts, novels, etc.)_.
-I hope my research can be applied to tangible, commercially viable projects that address the practical needs of people in real life.
+My research interests include **Large Language Models**, **Multimodal LLMs**, **Agentic AI**, and **Reasoning**, with a focus on **AI for creative video production workflows**. I am also a long-time **video content creator**, having made vlogs, popular-science videos, and promotional films. This hands-on experience is what drew me to this direction, and it has given me a first-hand understanding of the practical challenges creators face at every stage of production. My PhD aims to build _creator-centric AI assistants_ that empower, not replace, video creators in real-world production. Ultimately, I hope the AI I build can be deployed in the real world and genuinely help myself and creators of all kinds bring their ideas to life.
 
+Previously, I worked on LLM safety alignment, LLM-enhanced recommender systems, and LLM agents.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
