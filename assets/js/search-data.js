@@ -59,6 +59,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=JZxlqUgAAAAJ", "_blank");
         },
       },{
+        id: 'social-xiaohongshu',
+        title: 'Xiaohongshu',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.xiaohongshu.com/user/profile/620d0f5e000000001000b480", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/ray.song777", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
