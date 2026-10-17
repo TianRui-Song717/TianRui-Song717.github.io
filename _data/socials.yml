@@ -54,3 +54,8 @@ scholar_userid: JZxlqUgAAAAJ # your Google Scholar ID
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+xiaohongshu:
+  logo: /assets/img/xiaohongshu.svg # icon path from Simple Icons (CC0)
+  title: Xiaohongshu (RedNote)
+  url: https://www.xiaohongshu.com/user/profile/620d0f5e000000001000b480
+instagram_id: ray.song777
