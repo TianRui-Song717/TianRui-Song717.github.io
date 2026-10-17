@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "MM-Agent: LLMs as Agents for Real-world Mathematical Modeling Problems" has been accepted to the ``NeurIPS 2025``! 🥳🎉
+Our paper "MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem" has been accepted to the ``NeurIPS 2025``! 🥳🎉
