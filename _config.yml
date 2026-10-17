@@ -122,13 +122,14 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
+# Template examples disabled so they don't show up in search; replace with your own sources when re-enabling the blog.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -192,6 +193,27 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # ---------------------------------------------------------------------------
+  # Hidden pages (excluded from the build, search and sitemap).
+  # To re-enable one, delete its lines below and set `nav: true` in its _pages/ file.
+  # ---------------------------------------------------------------------------
+  # Planned for later -- keep these files, re-enable when ready:
+  #   Blog: also re-enable `external_sources` above; `_posts/` holds template demo posts to replace
+  - _pages/blog.md
+  - _posts/
+  - assets/jupyter/blog.ipynb
+  #   CV: fill in _data/cv.yml / assets/json/resume.json first (still template content)
+  - _pages/cv.md
+  #   Projects: `_projects/` holds template demo projects to replace
+  - _pages/projects.md
+  - _projects/
+  # Not needed:
+  - _pages/books.md
+  - _books/
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
