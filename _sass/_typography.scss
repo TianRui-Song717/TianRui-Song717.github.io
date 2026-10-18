@@ -25,6 +25,12 @@ h6 {
   letter-spacing: -0.005em;
 }
 
+// mdb.min.css sets strong to 500, which Source Serif 4 doesn't load (falls back to 400)
+b,
+strong {
+  font-weight: 700;
+}
+
 // Page titles: regular weight; the About page keeps its bold first name
 .post-title {
   font-weight: 400;

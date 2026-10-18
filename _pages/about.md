@@ -26,9 +26,9 @@ latest_posts:
 ---
 
 Hi! I'm Tianrui Song (feel free to call me Ray), a **first-year PhD student** in the [UKRI CDT in Designing Responsible NLP](https://responsiblenlp.org/) at the [University of Edinburgh](https://www.ed.ac.uk), supervised by [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/).
-I received my MRes in AI and Machine Learning from [Imperial College London](https://www.imperial.ac.uk) (supervised by [Prof. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/)) and my MPhil in AI from HKUST (Guangzhou) (supervised by [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://www.hkust-gz.edu.cn/people/wu-jingshen/)).
+I received my MRes in AI and Machine Learning from [Imperial College London](https://www.imperial.ac.uk) (supervised by [Prof. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/)) and my MPhil in AI from HKUST (Guangzhou) (supervised by [Prof. Hao Liu](https://raymondhliu.github.io) and [Prof. Jingshen Wu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=12)).
 
-My research interests include **Large Language Models**, **Multimodal LLMs**, **Agentic AI**, and **Reasoning**, with a focus on **AI for creative video production**. As a long-time **Vlogger**, I have a **first-hand understanding of the practical challenges** creators face, which is what drew me to this direction. My PhD aims to build *creator-centric AI assistants that **empower, not replace**, video creators*, and to see them **deployed in the real world**, genuinely helping myself and fellow creators bring their ideas to life.
+My research interests include **Large Language Models**, **Multimodal LLMs**, **Agentic AI**, and **Reasoning**, with a focus on **AI for creative video production**. As a long-time **Vlogger**, I have a **first-hand understanding of the practical challenges** creators face, which is what drew me to this direction. My PhD aims to build ***creator-centric AI assistants that empower, not replace, video creators***, and to see them **deployed in the real world**, genuinely helping myself and fellow creators bring their ideas to life.
 
 Previously, I worked on _LLM safety alignment_, _LLM-enhanced recommender systems_, and _LLM agents_, and interned at **ByteDance** (Douyin) on recommender systems.
 
