@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://informatics.ed.ac.uk'>School of Informatics</a>, <a href='https://www.ed.ac.uk'>The University of Edinburgh</a>. Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB
+subtitle: <a href='https://informatics.ed.ac.uk'>School of Informatics</a> & <a href='https://efi.ed.ac.uk'>Edinburgh Futures Institute</a>, <a href='https://www.ed.ac.uk'>The University of Edinburgh</a>
 
 profile:
   align: left
