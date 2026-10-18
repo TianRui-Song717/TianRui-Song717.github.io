@@ -1,10 +1,13 @@
 /*******************************************************************************
- * Typography: Apple-style system fonts (SF Pro on Apple devices, Inter elsewhere)
+ * Typography: classic academic pairing
+ * - Source Serif 4: body text, page titles, publication entries
+ * - Inter: navigation, labels, dates, badges, captions, section headings
  * Imported last so it overrides the Roboto defaults from mdb.min.css.
  ******************************************************************************/
 
 body {
-  font-family: $font-family-text;
+  font-family: $font-family-serif;
+  font-size: 1.0625rem;
   font-weight: 400;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -16,30 +19,75 @@ h2,
 h3,
 h4,
 h5,
-h6,
-.navbar-brand {
-  font-family: $font-family-display;
+h6 {
+  font-family: $font-family-serif;
   font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+// Page titles: regular weight; the About page keeps its bold first name
+.post-title {
+  font-weight: 400;
   letter-spacing: -0.015em;
 }
 
-.post-title {
-  letter-spacing: -0.025em;
+// Section headings on pages (e.g. "news", "selected publications" on About):
+// small uppercase Inter labels
+.post > article > h2 {
+  font-family: $font-family-ui;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-top: 2.5rem;
+
+  a {
+    color: var(--global-text-color-light) !important;
+  }
 }
 
-// Keep the bold first name / light last name contrast on the About page title
-.post-title:has(> .font-weight-bold) {
-  font-weight: 300;
+// UI elements in Inter
+.navbar .nav-link,
+.post-header .desc,
+.post-description,
+.news th,
+.publications .abbr abbr,
+.profile .more-info,
+.social .contact-note,
+footer {
+  font-family: $font-family-ui;
 }
 
 .navbar .nav-link {
+  font-size: 0.95rem;
   font-weight: 500;
+}
+
+.navbar-brand {
+  font-family: $font-family-serif;
+}
+
+.post-header .desc,
+.news th,
+.profile .more-info {
+  font-size: 0.85rem;
+}
+
+.news th {
+  font-weight: 500;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
+
+.publications .abbr abbr {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
 }
 
 code,
 pre,
 kbd,
-samp,
-.profile .more-info {
+samp {
   font-family: $font-family-mono;
 }
